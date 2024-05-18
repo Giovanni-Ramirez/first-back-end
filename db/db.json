@@ -1,18 +1,17 @@
 [
   {
-    "title": "Test Title",
-    "text": "Test text"
+    "id": "10c6cb03-6778-4853-bf5a-e89b10edaad0",
+    "title": "testing here",
+    "text": "test test test\n"
   },
   {
-    "title": "Gio was here",
-    "text": "lets go"
+    "id": "1ed4b12a-2765-4f5a-a8ea-ded1c7f45fb5",
+    "title": "Get fetch delete",
+    "text": "This is pretty dumb bc the starter code db was missing the id in the database but thats how the starter code was given to me so i tought thats what they wanted for it"
   },
   {
-    "title": "1234",
-    "text": "1234"
-  },
-  {
-    "title": "this should add ",
-    "text": "This is why isn't it updating"
+    "id": "39c7a729-d6b9-47e6-9b76-60dd5e9eb00d",
+    "title": "Valheim ",
+    "text": "My Friends are playing Valheim right now and I wanna play so bad but I'm here coding to finish this up."
   }
 ]
