@@ -1,10 +1,18 @@
 [
-    {
-        "title":"Test Title",
-        "text":"Test text"
-    },
-    {
-        "title":"Gio was here",
-        "text":"lets go"
-    }
+  {
+    "title": "Test Title",
+    "text": "Test text"
+  },
+  {
+    "title": "Gio was here",
+    "text": "lets go"
+  },
+  {
+    "title": "1234",
+    "text": "1234"
+  },
+  {
+    "title": "this should add ",
+    "text": "This is why isn't it updating"
+  }
 ]
